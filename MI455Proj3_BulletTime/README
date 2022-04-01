@@ -1,0 +1,8 @@
+This is a few of the files from the project created in MSU's Game Design and Development Course.
+It is for this project:
+https://nicole-stocks.itch.io/bullet-time
+
+These files were made almost entirely by me, David Khankin, but there are a few small sections that were written by Adam Kasumovic.
+I was tasked with handling the weapons system and incorporating it with the player, as well as the spawning of weapons in the scene. Ie: The weapons, and weapon boxes.
+
+I would like to point out that all the weapons and bullets are derived from a base weapons and base bulltes class respectively, allowing for unique characteristics such as launching explosive projectiles.
