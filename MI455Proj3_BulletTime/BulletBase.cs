@@ -85,10 +85,6 @@ public class BulletBase : MonoBehaviour
         lastPosition = transform.position;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-
-    }
 
     private void EndBulletLife()
     {
