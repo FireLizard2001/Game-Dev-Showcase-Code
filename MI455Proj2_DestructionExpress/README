@@ -3,5 +3,7 @@ This project was a pre production project developed in MI 455.
 This is a prototype and a build is accessible to be played here:
 https://david-khankin.itch.io/demolition-express
 
+A newer version is currently being worked on in MI 498 and updated code will be placed at the end of the semester.
+
 I, David Khankin, made code to handle different states as well as handled the camera. This was done using cinemachine.
 The main scripts I worked on can be found in this folder.
