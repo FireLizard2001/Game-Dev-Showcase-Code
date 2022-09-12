@@ -1,4 +1,6 @@
-The game is not currently named as it is still in development. Within the Player Input Handler, all code not managing the Key or Engines is by David Khankin.
-The Key and Engine handlers are by Chris Cardimen.
+The game has been named and is no longer in development. Within the Player Input Handler, all code not managing the Key or Engines is by David Khankin.
+The Key and Engine handlers are by Chris Cardimen. (This is a prototype version of the project)
+
+https://david-khankin.itch.io/steam-driven
 
 The player input handler is not yet finished. It uses the new input system, but the grab/throw as well as crouching has yet to be inplemented.
